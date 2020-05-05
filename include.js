@@ -2422,6 +2422,13 @@
     pageLink: "./Art/hoverMe/index.html",
     author: 'Bleron88',
 		githubLink: 'https://github.com/bleron88',
+	},
+	{
+		artName: "Bars-animation",
+		pageLink: "./Art/farhanali3193/index.html",
+		imageLink: "./Art/farhanali3193/Bars.png",
+		author: 'farhanali3193',
+		githubLink: 'https://github.com/farhanali3193',
 	}
 ];
 
